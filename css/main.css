@@ -1,0 +1,25 @@
+
+body{
+	text-align: center;
+}
+
+.form-group{
+	
+	margin-top: 50px;
+}
+div.content img{
+	width: 50%;
+	display: inline-block;
+
+}
+
+div.content p{
+	display: inline-block;
+	font-size: 1.5rem;
+	color: purple;
+}
+
+div.content h1{
+	color: red;
+}
+
